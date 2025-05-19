@@ -1,0 +1,39 @@
+# Node
+node_modules/
+.npm/
+
+# Nuxt build output
+.nuxt/
+output/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+.fleet
+.idea
+
+# Env
+.env
+.env.*
+!.env.example
+
+# VSCode
+.vscode/
+
+# Docker
+*.local
+*.pid
+*.seed
+
+# Others
+coverage/
+*.swp
